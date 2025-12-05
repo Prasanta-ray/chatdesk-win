@@ -35,3 +35,22 @@ We’ll use the same style of backend on both:
 LLMClient → wraps the local model
 
 ChatSession → stores messages and calls the client
+
+
+
+
+--------------------------------------------------------
+
+
+
+Basic README.md idea (summary)
+
+How to create venv
+
+pip install -r requirements.txt
+
+Download a GGUF model (e.g. LLaMA 3, Mistral etc.)
+
+Run python main_win.py
+
+Click Load GGUF Model, select file, start chatting
